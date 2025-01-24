@@ -15,14 +15,14 @@
     "link": "https://163.imsyy.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Paypal",
+    "name": "码支付",
+    "link": "https://pay.scfc.top/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Award",
+    "name": "雾ICP备案中心",
+    "link": "https://icp.scfc.top/"
   },
   {
     "icon": "Fire",
@@ -33,5 +33,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.scfc.top/"
+  },
+  {
+    "icon": "ShoppingCart"
+    "name": "雾伞",
+    "link": "https://shop.scfc.top/"
   }
 ]
