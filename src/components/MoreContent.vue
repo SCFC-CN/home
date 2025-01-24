@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">我怀念的不是自由而是自由的本身</div>
 </template>
 
 <style lang="scss" scoped>
